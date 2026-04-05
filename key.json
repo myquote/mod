@@ -12,5 +12,12 @@
     "password": "pass2",
     "expiresAt": "2029-11-3",
     "allowOffline": false
+  },
+  {
+    "id": "89835acd406ae2d7",
+    "username": "Khairul94",
+    "password": "Avanza1994",
+    "expiresAt": "2029-11-3",
+    "allowOffline": false
   }
 ]
